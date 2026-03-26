@@ -30,30 +30,30 @@ Monthly growth
 
 2. Objective (Write this in your project file)
 <br>
-To analyze sales data of past 5 years
+👉To analyze sales data of past 5 years
 <br>
-To identify trends and patterns
+👉To identify trends and patterns
 <br>
-To visualize data using graphs
+👉To visualize data using graphs
 <br>
-To help in business decision making
+👉To help in business decision making
 <br>
 
  3. Tools & Technologies (Very Important)
 <br>
-You will use:
+👉You will use:
 <br>
 
-Python
+👉Python
 <br>
-Libraries:
+👉Libraries:
 <br>
-pandas → for data handling
+👉pandas → for data handling
 <br>
-matplotlib / seaborn → for graphs
+👉matplotlib / seaborn → for graphs
 <br>
-numpy → calculations (optional)
+👉numpy → calculations (optional)
 <br>
 4. Dataset (From where we will get data)
 <br>
-Kaggle (search: sales dataset csv)
+👉Kaggle (search: sales dataset csv)

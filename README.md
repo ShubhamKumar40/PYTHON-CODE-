@@ -27,6 +27,7 @@ Monthly growth
 
 👉 Then show results using graphs and reports
 <br>
+
 2. Objective (Write this in your project file)
 <br>
 To analyze sales data of past 5 years

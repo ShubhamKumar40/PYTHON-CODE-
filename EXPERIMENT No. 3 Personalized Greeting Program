@@ -1,0 +1,16 @@
+EXPERIMENT No. 3
+Personalized Greeting Program
+
+AIM:
+    -> To learn user input handling.
+SOURCE CODE
+
+name = input("Enter your name: ")
+print("Welcome", name)
+
+OUTPUT
+Enter your name: Shubham
+Welcome Shubham
+
+RESULT:
+Program accepts input and displays output correctly.

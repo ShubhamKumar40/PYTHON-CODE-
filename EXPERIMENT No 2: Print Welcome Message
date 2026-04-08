@@ -1,0 +1,11 @@
+AIM:
+    -> To learn comments and indentation.
+
+SOURCE CODE
+
+# Program to print welcome message
+print("Welcome to Gulzar Group of Institutions")
+
+OUTPUT:
+        Welcome to Gulzar Group of Institutions
+RESULT: Program executed successfully.
